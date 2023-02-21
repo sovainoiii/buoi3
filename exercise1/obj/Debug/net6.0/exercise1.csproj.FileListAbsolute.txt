@@ -1,0 +1,15 @@
+E:\CSharp\buoi3\exercise1\bin\Debug\net6.0\exercise1.exe
+E:\CSharp\buoi3\exercise1\bin\Debug\net6.0\exercise1.deps.json
+E:\CSharp\buoi3\exercise1\bin\Debug\net6.0\exercise1.runtimeconfig.json
+E:\CSharp\buoi3\exercise1\bin\Debug\net6.0\exercise1.dll
+E:\CSharp\buoi3\exercise1\bin\Debug\net6.0\exercise1.pdb
+E:\CSharp\buoi3\exercise1\obj\Debug\net6.0\exercise1.csproj.AssemblyReference.cache
+E:\CSharp\buoi3\exercise1\obj\Debug\net6.0\exercise1.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp\buoi3\exercise1\obj\Debug\net6.0\exercise1.AssemblyInfoInputs.cache
+E:\CSharp\buoi3\exercise1\obj\Debug\net6.0\exercise1.AssemblyInfo.cs
+E:\CSharp\buoi3\exercise1\obj\Debug\net6.0\exercise1.csproj.CoreCompileInputs.cache
+E:\CSharp\buoi3\exercise1\obj\Debug\net6.0\exercise1.dll
+E:\CSharp\buoi3\exercise1\obj\Debug\net6.0\refint\exercise1.dll
+E:\CSharp\buoi3\exercise1\obj\Debug\net6.0\exercise1.pdb
+E:\CSharp\buoi3\exercise1\obj\Debug\net6.0\exercise1.genruntimeconfig.cache
+E:\CSharp\buoi3\exercise1\obj\Debug\net6.0\ref\exercise1.dll

@@ -1,0 +1,15 @@
+E:\CSharp\buoi3\demoabstract\bin\Debug\net6.0\demoabstract.exe
+E:\CSharp\buoi3\demoabstract\bin\Debug\net6.0\demoabstract.deps.json
+E:\CSharp\buoi3\demoabstract\bin\Debug\net6.0\demoabstract.runtimeconfig.json
+E:\CSharp\buoi3\demoabstract\bin\Debug\net6.0\demoabstract.dll
+E:\CSharp\buoi3\demoabstract\bin\Debug\net6.0\demoabstract.pdb
+E:\CSharp\buoi3\demoabstract\obj\Debug\net6.0\demoabstract.csproj.AssemblyReference.cache
+E:\CSharp\buoi3\demoabstract\obj\Debug\net6.0\demoabstract.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp\buoi3\demoabstract\obj\Debug\net6.0\demoabstract.AssemblyInfoInputs.cache
+E:\CSharp\buoi3\demoabstract\obj\Debug\net6.0\demoabstract.AssemblyInfo.cs
+E:\CSharp\buoi3\demoabstract\obj\Debug\net6.0\demoabstract.csproj.CoreCompileInputs.cache
+E:\CSharp\buoi3\demoabstract\obj\Debug\net6.0\demoabstract.dll
+E:\CSharp\buoi3\demoabstract\obj\Debug\net6.0\refint\demoabstract.dll
+E:\CSharp\buoi3\demoabstract\obj\Debug\net6.0\demoabstract.pdb
+E:\CSharp\buoi3\demoabstract\obj\Debug\net6.0\demoabstract.genruntimeconfig.cache
+E:\CSharp\buoi3\demoabstract\obj\Debug\net6.0\ref\demoabstract.dll
